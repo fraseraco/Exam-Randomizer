@@ -1,4 +1,4 @@
-package com.fraseraco.maven;
+package com.fraseraco.ExamScrambler;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
